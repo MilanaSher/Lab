@@ -62,4 +62,7 @@
   
 <h2>Лабораторная работа 3</h2>
   <p>Работа с Cisco Packet Tracer</p>
-  Сценарий 
+  Сценарий и отчет доступны на <a href="https://milanasher.nicepage.io/?version=22ec643e-2f69-4ed0-bf72-a69eb95a107e&uid=d10f91a3-a24a-4df6-887f-09533d165eb8">личной веб-странице</a>
+  
+  <h2>Экзаменационный билет №10</h2>
+  Ответ на экзаменационный <a href="https://github.com/stankin/inet-2022/wiki/exam10-3">билет№10</a>

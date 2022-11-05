@@ -2,7 +2,7 @@
 Лабораторная работа 1
 <li>Регистрация на <a href="https://github.com/">github.com</a></li>
                     <li>Создание личного <a href="https://github.com/OlFil/OlFil.github.io">репозитория</a></li>
-                    <li>Создание <a href="https:milanasher.nicepage.io">личной веб-страницы</a> с описанием выполнения
+                    <li>Создание <a href="https://milanasher.nicepage.io/?version=22ec643e-2f69-4ed0-bf72-a69eb95a107e&uid=d10f91a3-a24a-4df6-887f-09533d165eb8">личной веб-страницы</a> с описанием выполнения
                         лабораторных работ</li>
                     <li>Размещение код веб-страницы</a> в репозитории</li>
                     <li>Размещение веб-страницы на хостинге

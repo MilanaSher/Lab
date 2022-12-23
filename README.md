@@ -66,4 +66,5 @@
   Сценарий и отчет доступны на <a href="https://milanasher.nicepage.io/?version=825e8335-b036-4d43-bb22-8765bc80367a&uid=d10f91a3-a24a-4df6-887f-09533d165eb8">личной веб-странице</a>
   
   <h2>Экзаменационный билет №10</h2>
-  Ответ на экзаменационный <a href="https://github.com/stankin/inet-2022/wiki/exam10-3">билет№10</a>
+  Ответ на экзаменационный <a href="https://github.com/stankin/inet-2022/wiki/exam10-3">билет№10</a><br>
+ Добавила ответ на первый вопрос <a href="https://github.com/stankin/inet-2022/wiki/exam10-3/_compare/ade9e86050084419fe45e122a23ff4d7b796240c...3aef21ad6e2555d199591537423f0cbf205e39df">вопрос 1</a>
